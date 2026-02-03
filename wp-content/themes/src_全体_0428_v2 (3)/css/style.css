@@ -1377,7 +1377,7 @@ body {
 /* -------menu--------- */
 .menu_kv {
   background: linear-gradient(rgba(27, 111, 147, 0.3), rgba(27, 111, 147, 0.3)),
-    url(../img/bg_kv.jpg) center top / cover;
+    url(/cafe_shizuku//wp-content/themes/src_%E5%85%A8%E4%BD%93_0428_v2%20%283%29/img/bg_kv.jpg) center top / cover;
 
   position: relative;
 }
