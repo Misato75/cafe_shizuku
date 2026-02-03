@@ -1377,7 +1377,7 @@ body {
 /* -------menu--------- */
 .menu_kv {
   background: linear-gradient(rgba(27, 111, 147, 0.3), rgba(27, 111, 147, 0.3)),
-    url(../wp-content/themes/src_全体_0428_v2 (3)/img/bg_kv.jpg) center top / cover;
+    url(../../wp-content/themes/src_全体_0428_v2 (3)/img/bg_kv.jpg) center top / cover;
 
   position: relative;
 }
